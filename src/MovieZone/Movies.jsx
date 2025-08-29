@@ -87,7 +87,7 @@ const Movies = () => {
               style={{
                 padding: "10px",
               }}
-              classNameName="hover_effect"
+              className="hover_effect"
             >
               <img
                 src={data.poster_path}
